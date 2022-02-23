@@ -1,2 +1,2 @@
-# Insert-SQL
-2 exercícios para a fixação do conceito sobre Insert na linguagem SQL.
+# CRUD-SQL
+4 exercícios para a fixação dos conceitos sobre o CRUD na linguagem SQL.
