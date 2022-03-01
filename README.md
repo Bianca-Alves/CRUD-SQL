@@ -1,2 +1,2 @@
-# CRUD-SQL
-5 exercícios para a fixação dos conceitos sobre o CRUD (Create, Read, Update, Delete) na linguagem SQL.
+# Comandos-DML-SQL
+5 exercícios para a fixação do conceito sobre comandos DML (Data Manipulation Language) na linguagem SQL.
